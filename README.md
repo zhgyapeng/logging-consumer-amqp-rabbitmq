@@ -1,0 +1,1 @@
+* 有关AMQP资料参考链接https://www.cnblogs.com/ityouknow/p/6120544.html
